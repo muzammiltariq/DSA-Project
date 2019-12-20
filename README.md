@@ -1,1 +1,2 @@
-# DSA-Project
+# Teacher Utility Tool
+For our course Data Structures and Algorithms me and my group partners Moid Huda and Ali Rizvi developed a Teacher Utility Tool. It utilises various data structures to sort through academics records of students and assign them a grade or scale their marks. Moreover a module of the said software uses machine learning to train itself and predict the final score of the student based on their academic performance through out the semester. It uses modules such as LogisticRegression and LinearDiscriminantAnalysis.
